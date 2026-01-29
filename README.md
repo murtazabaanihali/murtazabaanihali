@@ -1,7 +1,7 @@
 # 👋 Hello!
-I’m  a **Full Stack Developer** who takes care of **everything** from **building** to  **launching** apps. I create easy-to-use **web**, **mobile**, and **desktop**  applications with **clean** code and solutions that **grow** with you. Let’s  **create** something great **together!**
+I’m  a Full Stack Developer who takes care of everything from building to  launching apps. I create easy-to-use web, mobile, and desktop  applications with clean code and solutions that grow with you. Let’s  create something great together!
 
-Founder of [**iReplyy**](https://ireplyy.dhem.io/) - An **Automation** tool for major **social media** platforms
+Founder of [**iReplyy**](https://ireplyy.dhem.io/) - An Automation tool for major social media platforms
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/murtazabaanihali) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/murtazabaanihali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/murtazabaanihali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/murtazabanihali) 
